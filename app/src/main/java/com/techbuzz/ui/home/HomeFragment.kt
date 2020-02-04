@@ -31,11 +31,11 @@ class HomeFragment : Fragment() {
         }
 
         root.update.setOnClickListener {
-            setTargetFragment(UpdatesFragment(), R.id.linear)
+            activity!!.supportFragmentManager.beginTransaction().replace(R.id.nav_host_fragment, UpdatesFragment()).commit()
         }
 
         root.account.setOnClickListener {
-            getFragmentManager()!!.beginTransaction().replace(R.id.linear, MyaccountFragment()).commit()
+           activity!!.supportFragmentManager.beginTransaction().replace(R.id.nav_host_fragment, MyaccountFragment()).commit()
         }
         return root
     }
