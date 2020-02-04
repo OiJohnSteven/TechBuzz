@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">TechBuzz</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Updates</string>
+    <string name="menu_slideshow">Fields</string>
+    <string name="menu_tools">My Account</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="login">LOGIN</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+    <string name="username">Enter Username</string>
+    <string name="create">Create An Account?</string>
+    <string name="creater">CREATE ACCOUNT</string>
+    <string name="entfield">Enter field(Android, AI, Web .....)</string>
+    <string name="message">Enter Message</string>
+    <string name="postt">POST</string>
+    <string name="search">Search</string>
+
+    <string name="attach">Attach Photo</string>
+
+    <string name="fields">Sectors</string>
+    <string name="about">About Us</string>
+
+    <string name="text">Has TechBuzz been of help to You and would love someone to know about it?
+        Invite a friend
+    </string>
+
+    <string name="share">SHARE</string>
+
+    <string name="medium">Medium</string>
+    <string name="stackover">Stack Overflow</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="quora">Quora</string>
+    <string name="fieldtext">This is a daily updated blog of the developers teaching on technology based on different fields. Tap to Learn</string>
+    <string name="tap">Tap to Learn</string>
+
+    <string name="upload">Uploads</string>
+    <string name="post">Post</string>
+
+</resources>

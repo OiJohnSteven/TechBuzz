@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "923579320277",
+    "firebase_url": "https://techbuzz-595d4.firebaseio.com",
+    "project_id": "techbuzz-595d4",
+    "storage_bucket": "techbuzz-595d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923579320277:android:724e70b1422e4781761f5c",
+        "android_client_info": {
+          "package_name": "com.techbuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923579320277-s25ea0edfiuj3ocbesnp6geervp2o60p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techbuzz",
+            "certificate_hash": "3d848d8c3f4d02dfc595089bdf275a5f18e00bb2"
+          }
+        },
+        {
+          "client_id": "923579320277-dtmbbkulf4fqak1mednrgfecnbhidjvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVKrbpvrjgTOKuCRyg008nER4t9WuUq5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923579320277-dtmbbkulf4fqak1mednrgfecnbhidjvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
